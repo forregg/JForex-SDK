@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dukascopy.dds2:DDS2-jClient-JForex:2.44.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dukascopy/dds2/DDS2-jClient-JForex/2.44.7/DDS2-jClient-JForex-2.44.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dukascopy/dds2/DDS2-jClient-JForex/2.44.7/DDS2-jClient-JForex-2.44.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dukascopy/dds2/DDS2-jClient-JForex/2.44.7/DDS2-jClient-JForex-2.44.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
